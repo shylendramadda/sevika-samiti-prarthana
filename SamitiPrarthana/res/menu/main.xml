@@ -4,10 +4,10 @@
         android:id="@+id/Telugu"
         android:orderInCategory="100"
         android:title="@string/telugu"/> -->
-    <item
+    <!-- <item
         android:id="@+id/Hindi"
         android:orderInCategory="100"
-        android:title="@string/hindi"/>
+        android:title="@string/hindi"/> -->
       <item
         android:id="@+id/bg1"
         android:orderInCategory="100"
