@@ -13,11 +13,14 @@ import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
+import android.util.DisplayMetrics;
+import android.view.Display;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.WindowManager;
+import android.widget.FrameLayout;
 import android.widget.RelativeLayout;
 import android.widget.SeekBar;
 import android.widget.SeekBar.OnSeekBarChangeListener;
@@ -26,7 +29,12 @@ import android.widget.TextView;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.content.ContextCompat;
 
+import com.geeklabs.rssprarthana.utils.Constants;
 import com.geeklabs.sevika.rssprarthana.R;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdSize;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -37,10 +45,18 @@ public class MainActivity extends AppCompatActivity {
 	private AudioManager audioManager;
 	private AudioManager.OnAudioFocusChangeListener audioFocusChangeListener;
 
+	private AdView adView;
+	private FrameLayout adContainerView;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
+
+		adContainerView = findViewById(R.id.adContainerView);
+
+		// Init mobile ads
+		MobileAds.initialize(this, initializationStatus -> loadBanner());
 
 		// Keep screen active
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
@@ -211,7 +227,26 @@ public class MainActivity extends AppCompatActivity {
 	}
 
 	@Override
+	protected void onPause() {
+		if (adView != null) {
+			adView.pause();
+		}
+		super.onPause();
+	}
+
+	@Override
+	protected void onResume() {
+		super.onResume();
+		if (adView != null) {
+			adView.resume();
+		}
+	}
+
+	@Override
 	protected void onDestroy() {
+		if (adView != null) {
+			adView.destroy();
+		}
 		super.onDestroy();
 		if (mp != null) {
 			if (mp.isPlaying()) {
@@ -223,5 +258,39 @@ public class MainActivity extends AppCompatActivity {
 		if (audioManager != null && audioFocusChangeListener != null) {
 			audioManager.abandonAudioFocus(audioFocusChangeListener);
 		}
+	}
+
+	private void loadBanner() {
+		// Create a new ad view.
+		adView = new AdView(this);
+		adView.setAdSize(getAdSize());
+		adView.setAdUnitId(Constants.ADD_UNIT_ID);
+
+		// Replace ad container with new ad view.
+		adContainerView.removeAllViews();
+		adContainerView.addView(adView);
+
+		// Start loading the ad in the background.
+		AdRequest adRequest = new AdRequest.Builder().build();
+		adView.loadAd(adRequest);
+	}
+
+	private AdSize getAdSize() {
+		// Determine the screen width (less decorations) to use for the ad width.
+		Display display = getWindowManager().getDefaultDisplay();
+		DisplayMetrics outMetrics = new DisplayMetrics();
+		display.getMetrics(outMetrics);
+
+		float density = outMetrics.density;
+
+		float adWidthPixels = adContainerView.getWidth();
+
+		// If the ad hasn't been laid out, default to the full screen width.
+		if (adWidthPixels == 0) {
+			adWidthPixels = outMetrics.widthPixels;
+		}
+
+		int adWidth = (int) (adWidthPixels / density);
+		return AdSize.getCurrentOrientationAnchoredAdaptiveBannerAdSize(this, adWidth);
 	}
 }

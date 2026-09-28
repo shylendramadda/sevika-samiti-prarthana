@@ -13,7 +13,7 @@
         android:id="@+id/scrollView1"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_above="@+id/seekBar1" >
+        android:layout_above="@+id/adContainerView" >
 
         <TableLayout
             android:layout_width="match_parent"
@@ -30,6 +30,13 @@
                 android:textStyle="bold" />
         </TableLayout>
     </ScrollView>
+
+    <FrameLayout
+        android:id="@+id/adContainerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/seekBar1"
+        android:layout_marginBottom="8dp" />
 
     <SeekBar
         android:id="@+id/seekBar1"
