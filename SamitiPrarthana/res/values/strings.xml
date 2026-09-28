@@ -17,30 +17,33 @@
     <string name="gurumukhi">Gurumukhi</string>
     <string name="bangla">Bangla</string>
     <string name="tamil">Tamil</string>
-    <string name="teluguPrair">ప్రార్థన    \n\n              
-౧. నమస్తే సదా వత్సలే మాతృభూమే\n
-      త్వయా హిన్దుభూమే సుఖవ్ వర్ధితోహమ్\n
-      మహామఙ్గలే పుణ్యభూమే త్వదర్థే\n
-      పతత్వేష కాయో నమస్తే నమస్తే ||\n\n
+    <string name="teluguPrair">ప్రార్థన: \n\n
+        నమామో వయం మాతృభూః పుణ్యభూస్త్వామ్\n
+త్వయా వర్ధితాః సంస్కృతాస్త్వత్సుతాః\n
+అయే వత్సలే మంగళే హిందూభూమే\n
+స్వయం జీవితాన్యర్పయామస్త్వయి ||1||\n\n
 
-౨. ప్రభో శక్తిమన్ హిన్దు రాష్ట్రాఙ్గభూతా\n
-                ఇమే సాదరన్ త్వాన్ నమామో వయమ్\n
-      త్వదీయాయ కార్యాయ బధ్దా కటీయమ్ \n
-                శుభామాశిషన్ దేహి తత్పూర్తయే\n
-      అజయ్యాఞచ విశ్వస్య దేహీశ శక్తిమ్ \n
-                సుశీలన్ జగద్  యేన నమ్రమ్ భవేత్\n
-      శ్రుతఞ చైవ యత్ కణ్టకాకీర్ణ మార్గం\n
-                స్వయం స్వీకృతం నస్ సుగఙ కారయేత్ \n\n
+నమో విశ్వశక్తయే నమస్తే నమస్తే\n
+త్వయా నిర్మితం హిందూరాష్ట్రం మహత్\n
+తవైవాత్ర సజ్జాః సమేత్య\n
+సమాలంబితుం దివ్యమార్గం వయమ్ ||2||\n\n
 
-౩. సముత్కర్ష నిస్ శ్రేయ సస్యైక ముగ్రం\n
-              పరమ్ సాధనన్ నామ వీర వ్రతమ్\n
-     తదన్తస్ స్ఫురత్వక్షయా ధ్యేయనిష్ఠా\n
-               హృదన్తః ప్రజాగర్తు తీవ్రానిశమ్\n
-     విజేత్రీ చ నస్ సంహతా కార్యశక్తిర్\n
-               విధాయాస్య ధర్మస్య సంరక్షణమ్\n
-     పరవ్ వైభవన్ నేతు మేతత్ స్వరాష్ట్రమ్ \n
-               సమర్థా భవత్వాశిశా తే భృశమ్\n\n
-  ||భారత్ మాతా కీ జయ్||</string>
+సమున్నామితం యేన రాష్ట్రం న ఏతత్\n
+పురో యస్య నమ్రం సమగ్రం జగత్\n
+తదాదర్శయుక్తం పవిత్రం సతీత్వమ్\n
+ప్రియాభ్యః సుతాభ్యః ప్రయచ్ఛాంబ తే ||3||\n\n
+
+సముత్పాదయాస్మాసు శక్తిం సుదివ్యామ్\n
+దురాచారదుర్వృత్తివిధ్వంసినీమ్\n
+పితాపుత్రభ్రాతృంశ్చ భర్తారమేవమ్\n
+సుమార్గం ప్రతి ప్రేరయంతీమిహ ||4||\n\n
+
+సుశీలాః సుధీరాః సమర్థాః సమేతాః\n
+స్వధర్మే స్వమార్గే పరం శ్రద్ధయా వయమ్\n
+భావీతేజస్విరాష్ట్రస్య ధన్యాః\n
+జనన్యో భవేమేతి దేహ్యాశిషమ్ ||5||\n\n
+
+భారత్ మాతా కీ జయ!</string>
     <string name="hindiPrair">        प्रार्थना \n\n
         नमामो वयं मातृभू: पुण्यभूस्त्वाम्\n
 त्वया वर्धिता: संस्कृतास्त्वत्सुता:\n
@@ -65,247 +68,77 @@
 
 
 ।। भारत माता की जय ।।</string>
-    <string name="englishPrair">        Prarthana\n\n
-namaste sada vatsale matrubhume\n
-tvaya hindubhume sukham vardhitoham\n
-mahamangale punyabhume tvadarthe\n
-patatvesha kayo namaste namaste ||\n\n
+    <string name="englishPrair">
+        Prarthana \n\n
+        Namamo vayam matrubhu: punyabhustvam \n
+Tvaya vardhita: samskritastvatsuta: \n
+Aye vatsale mangale hindubhume \n
+Svayam jivitanyarpayama: tvayi ||1||\n\n
 
-prabho shaktiman hindurashtrangabhuta\n
-ime sadaran tvan namamo vayam\n
-tvadiyaya karyaya badhda katiyam\n
-shubhamasishan dehi tatpurtaye\n
-ajayyan cha vishvasya dehisha shaktim\n
-sushilan jagadyena namram bhavet\n
-shrutan chaiva yatkantakakirna margam\n
-svayam svikrutam nah sugan karayet ||\n\n
+Namo vishvashaktyai namaste namaste \n
+Tvaya nirmitam hindurashtram mahat \n
+Prasadat tavaivatra sajja: sametya \n
+Samalambitum divyamargam vayam ||2||\n\n
 
-samutkarshanihshreyasasyaikamugram\n
-param sadhanan nama viravratam\n
-tadantah sphuratvakshaya dhyeyanishta\n
-hrudantah prajagartu tivranisam\n
-vijetri cha nah samhata karyashaktir\n
-vidhayasya dharmasya samrakshanam\n
-param vaibhavan netumetat svarashtram\n
-samartha bhavatvashisha te bhrusham || \n\n
+Samunnamitam yena rashtram na etat \n
+Puro yasya namram samagram jagat \n
+Tadadarshayuktam pavitram satitvam \n
+Priyabhya: sutabhya: prayacchamba te ||3||\n\n
 
-|| bharath mata ki jai || \n</string>
-    <string name="malayalamPrayer">
-പ്രാർത്ഥന\n\n
-        നമസ്തേ സദാ വത്സലേ മാതൃഭൂമേ\n
-ത്വയാ ഹിന്ദുഭൂമേ സുഖം വര്ദ്ധിതോഹം\n
-മഹാമങ്ഗലേ പുണ്യഭൂമേ ത്വദര്ത്ഥേ\n
-പതത്വേഷ കായോ നമസ്തേ നമസ്തേ\n\n
+Samutpadayasmasu shaktim sudivyam \n
+Durachara-durvritti-vidhvamsinim \n
+Pita-putra-bhratrimshcha bhartaram evam \n
+Sumargam prati prerayantim iha ||4||\n\n
 
-പ്രഭോ ശക്തിമൻ ഹിന്ദുരാഷ്ട്രാങ്ഗഭൂതാ:\n
-ഇമേ സാദരം ത്വാം നമാമോ വയം\n
-ത്വദീയായ കാര്യായ ബദ്ധാ കടീയം\n
-ശുഭാമാശിഷന്ദേഹി തത്പൂര്ത്തയേ\n
-അജയ്യാഞ്ച വിശ്വസ്യ ദേഹീശ ശക്തിം\n
-സുശീലം ജഗദ്യേന നമ്രം ഭവേത്\n
-ശ്രുതഞ്ചൈവ യത് കണ്ടകാകീര്ണ്ണ മാര്ഗ്ഗം\n
-സ്വയം സ്വീകൃതന്നസ്സുഗങ്_കാരയേത്\n\n
+Sushila: sudhira: samartha: sameta: \n
+Svadharme svamarge param shraddhaya \n
+Vayam bhavi-tejasvi-rashtrasya dhanya: \n
+Jananyo bhavemeti dehyashisham ||5||\n\n
 
-സമുത്കര്ഷനിഃശ്രേയസസ്വൈകമുഗ്രം\n
-പരം സാധനം നാമ വീരവ്രതം\n
-തദന്തസ്ഫുരത്വക്ഷയാ ധ്യേയനിഷ്ഠാ\n
-ഹൃദന്തഃ പ്രജാഗര്ത്തു തീവ്രാനിശം\n
-വിജേത്രീ ച നസ്സംഹതാ കാര്യശക്തിര്-\n
-വിധായാസ്യ ധർമ്മസ്യ സംരക്ഷണം\n
-പരം വൈഭവം നേതുമേതത് സ്വരാഷ്ട്രം\n
-സമർഥാ ഭവത്വാശിഷാ തേ ഭൃശം\n\n
-
-ഭാരത് മാതാ കീ ജയ്
-        
-</string>
-    <string name="kannadaPrayer">
-	
-        ಪ್ರಾರ್ಥನೆ\n\n
-        ನಮಸ್ತೇ ಸದಾ ವತ್ಸಲೇ ಮಾತೃಭೂಮೇ\n
-ತ್ವಯಾ ಹಿಂದುಭೂಮೇ ಸುಖಂ ವರ್ಧಿತೋಹಮ್\n
-ಮಹಾಮಂಗಲೇ ಪುಣ್ಯಭೂಮೇ ತ್ವದರ್ಥೇ\n
-ಪತತ್ವೇಷಕಾಯೋ ನಮಸ್ತೇ ನಮಸ್ತೇ\n
-
-ಪ್ರಭೋ ಶಕ್ತಿಮನ್ ಹಿಂದುರಾಷ್ಟ್ರಾಂಗಭೂತಾ\n
-ಇಮೇ ಸಾದರಂ ತ್ವಾಂ ನಮಾಮೋ ವಯಮ್\n
-ತ್ವದೀಯಾಯ ಕಾರ್ಯಾಯ ಬದ್ಧಾ ಕಟೀಯಂ\n
-ಶುಭಾಮಾಶಿಷಂ ದೇಹಿ ತತ್ಪೂರ್ತಯೇ\n
-ಅಜಯ್ಯಾಂ ಚ ವಿಶ್ವಸ್ಯ ದೇಹೀಽಶ ಶಕ್ತಿಂ\n
-ಸುಶೀಲಂ ಜಗದ್ಯೇನ ನಮ್ರಂ ಭವೇತ್\n
-ಶ್ರುತಂ ಚೈವ ಯತ್ಕಂಟಕಾಕೀರ್ಣ ಮಾರ್ಗಂ\n
-ಸ್ವಯಂ ಸ್ವೀಕೃತಂ ನಃ ಸುಗಂ ಕಾರಯೇತ್\n\n
-
-ಸಮುತ್ಕರ್ಷನಿಃಶ್ರೇಯಸಸ್ಯೈಕಮುಗ್ರಂ\n
-ಪರಂ ಸಾಧನಂ ನಾಮ ವೀರವ್ರತಮ್\n
-ತದನ್ತಃ ಸ್ಫುರತ್ವಕ್ಷಯಾ ಧ್ಯೇಯನಿಷ್ಠಾ\n
-ಹೃದನ್ತಃ ಪ್ರಜಾಗರ್ತು ತೀವ್ರಾನಿಶಮ್\n
-ವಿಜೇತ್ರೀ ಚ ನಃ ಸಂಹತಾ ಕಾರ್ಯಶಕ್ತಿರ್\n
-ವಿಧಾಯಾಸ್ಯ ಧರ್ಮಸ್ಯ ಸಂರಕ್ಷಣಮ್\n
-ಪರಂ ವೈಭವಂ ನೇ ತುಮೇತತ್ ಸ್ವರಾಷ್ಟ್ರಂ\n
-ಸಮರ್ಥಾ ಭವತ್ವಾಶಿಶಾ ತೇ ಭೃಶಮ್\n\n
-
-ಭಾರತ ಮಾತಾ ಕೀ ಜಯ್
-        
-
-</string>
-    <string name="gujaratiPrayer">
-
-        પ્રાર્થના\n\n
- નમસ્તે સદા વત્સલે માતૃભૂમે\n 
-ત્વયા હિન્દુભૂમે સુખં વર્ધિતોહમ્ \n
-મહામઙ્ગલે પુણ્યભૂમે ત્વદર્થે \n
-પતત્વેષ કાયો નમસ્તે નમસ્તે\n\n
-
-પ્રભો શક્તિમન્ હિન્દુરાષ્ટ્રાઙ્ગભૂતા \n
-ઇમે સાદરં ત્વાં નમામો વયમ્ \n
-ત્વદીયાય કાર્યાય બધ્દા કટીયં \n
-શુભામાશિષં દેહિ તત્પૂર્તયે \n
-અજય્યાં ચ વિશ્વસ્ય દેહીશ શક્તિં\n 
-સુશીલં જગદ્યેન નમ્રં ભવેત્ \n
-શ્રુતં ચૈવ યત્કણ્ટકાકીર્ણ માર્ગં\n
- સ્વયં સ્વીકૃતં નઃ સુગં કારયેત્\n
- 
-સમુત્કર્ષનિઃશ્રેયસ્યૈકમુગ્રં \n
-પરં સાધનં નામ વીરવ્રતમ્\n 
-તદન્તઃ સ્ફુરત્વક્ષયા ધ્યેયનિષ્ઠા\n 
-હૃદન્તઃ પ્રજાગર્તુ તીવ્રાનિશમ્ \n
-વિજેત્રી ચ નઃ સંહતા કાર્યશક્તિર્ \n
-વિધાયાસ્ય ધર્મસ્ય સંરક્ષણમ્ \n
-પરં વૈભવં નેતુમેતત્ સ્વરાષ્ટ્રં \n
-સમર્થા ભવત્વાશિશા તે ભૃશમ્ \n\n
-
-ભારત માતા કી જય
-        
-        
-
-</string>
-    <string name="gurumukhiPrayer">
-प्रार्थना \n\n
-        ਨਮਸ੍ਤੇ ਸਦਾ ਵਤ੍ਸਲੇ ਮਾਤ੃ਭੂਮੇ\n
-ਤ੍ਵਯਾ ਹਿਨ੍ਦੁਭੂਮੇ ਸੁਖਂ ਵਰ੍ਧਿਤੋਹਮ੍\n
-ਮਹਾਮਙ੍ਗਲੇ ਪੁਣ੍ਯਭੂਮੇ ਤ੍ਵਦਰ੍ਥੇ\n
-ਪਤਤ੍ਵੇ਷ ਕਾਯੋ ਨਮਸ੍ਤੇ ਨਮਸ੍ਤੇ\n\n
-
-ਪ੍ਰਭੋ ਸ਼ਕ੍ਤਿਮਨ੍ ਹਿਨ੍ਦੁਰਾ਷੍ਟ੍ਰਾਙ੍ਗਭੂਤਾ\n
-ਇਮੇ ਸਾਦਰਂ ਤ੍ਵਾਂ ਨਮਾਮੋ ਵਯਮ੍\n
-ਤ੍ਵਦੀਯਾਯ ਕਾਰ੍ਯਾਯ ਬਧ੍ਦਾ ਕਟੀਯਂ\n
-ਸ਼ੁਭਾਮਾਸ਼ਿ਷ਂ ਦੇਹਿ ਤਤ੍ਪੂਰ੍ਤਯੇ\n
-ਅਜਯ੍ਯਾਂ ਚ ਵਿਸ਼੍ਵਸ੍ਯ ਦੇਹੀਸ਼ ਸ਼ਕ੍ਤਿਂ\n
-ਸੁਸ਼ੀਲਂ ਜਗਦ੍ਯੇਨ ਨਮ੍ਰਂ ਭਵੇਤ੍\n
-ਸ਼੍ਰੁਤਂ ਚੈਵ ਯਤ੍ਕਣ੍ਟਕਾਕੀਰ੍ਣ ਮਾਰ੍ਗਂ\n
-ਸ੍ਵਯਂ ਸ੍ਵੀਕ੃ਤਂ ਨਃ ਸੁਗਂ ਕਾਰਯੇਤ੍\n\n
-
-ਸਮੁਤ੍ਕਰ੍਷ਨਿਃਸ਼੍ਰੇਯਸ੍ਯੈਕਮੁਗ੍ਰਂ\n
-ਪਰਂ ਸਾਧਨਂ ਨਾਮ ਵੀਰਵ੍ਰਤਮ੍\n
-ਤਦਨ੍ਤਃ ਸ੍ਫੁਰਤ੍ਵਕ੍਷ਯਾ ਧ੍ਯੇਯਨਿ਷੍ਠਾ\n
-ਹ੃ਦਨ੍ਤਃ ਪ੍ਰਜਾਗਰ੍ਤੁ ਤੀਵ੍ਰਾਨਿਸ਼ਮ੍\n
-ਵਿਜੇਤ੍ਰੀ ਚ ਨਃ ਸਂਹਤਾ ਕਾਰ੍ਯਸ਼ਕ੍ਤਿਰ੍\n
-ਵਿਧਾਯਾਸ੍ਯ ਧਰ੍ਮਸ੍ਯ ਸਂਰਕ੍਷ਣਮ੍\n
-ਪਰਂ ਵੈਭਵਂ ਨੇਤੁਮੇਤਤ੍ ਸ੍ਵਰਾ਷੍ਟ੍ਰਂ\n
-ਸਮਰ੍ਥਾ ਭਵਤ੍ਵਾਸ਼ਿਸ਼ਾ ਤੇ ਭ੃ਸ਼ਮ੍ \n\n
-
-ਭਾਰਤ ਮਾਤਾ ਕੀ ਜਯ
-        
-        
-</string>
-    <string name="banglaPrayer">
-প্রার্থনা\n\n
-        নমস্তে সদা বৎসলে মাতৃভূমে\n
-ত্বয়া হিন্দুভূমে সুখং বার্ধিতোঽহম্\n
-মহামঙ্গলে পুণ্যভূমে তদর্থে\n
-পতত্বেষ কায়ো নমস্তে নমস্তে ।।১\n\n
-
-প্রভো শক্তিমন্ হিন্দুরাষ্ট্রাঙ্গভূতা\n
-ইমে সাদরং ত্বাং নমামো বয়ম্\n
-ত্বদীয়ায় কর্যায় বধ্দা কটীযং\n
-শুভামাশিষং দেহি তৎপূর্তযে ।\n
-অজয্যাং চ বিশ্বস্য দেহীশ শক্তিম্\n
-সুশীলং জগদ্ যেন নম্রং ভবেৎ\n
-শ্রুতং চৈব যৎ কণ্টকাকীর্ণমার্গম্\n
-স্বয়ং স্বীকৃতং নঃ সুগং কারয়েৎ ।।২\n\n
-
-সমুত্কর্ষনিঃশ্রেয়সস্যৈকমুগ্রম্\n
-পরং সাধনং নাম বীরব্রতম্\n
-তদন্তঃ স্ফুরত্বক্ষয়া ধ্যেয়নিষ্ঠা\n
-হৃদন্তঃ প্রজাগর্তু তীব্রাঽনিশম্\n
-বিজেত্রী চ নঃ সংহতা কার্যশক্তির্\n
-বিধায়াস্য ধর্মস্য সংরক্ষণম্\n
-পরং বৈভবং নেতুমেতঽ স্বরাষ্ট্রম্\n
-সমর্থা ভবত্বাশিষা তে ভৃশম্।।৩\n\n
-
-ভারত মাতা কী জয় I
-        
-</string>
-    <string name="tamilPrayer">
-
-        பிரார்த்தனை\n\n
-        
-நமஸ்தே ஸ஦ா வத்ஸலே மாத௃஭ூமே\n
-த்வயா ஹிந்஦ு஭ூமே ஸு஖ஂ வர்஧ிதோஹம்\n
-மஹாமங்஗லே புண்ய஭ூமே த்வ஦ர்஥ே\n
-பதத்வேஷ காயோ நமஸ்தே நமஸ்தே\n\n
-
-ப்ர஭ோ ஶக்திமந்‌ ஹிந்஦ுராஷ்ட்ராங்஗஭ூதா\n
-இமே ஸா஦ரஂ த்வாஂ நமாமோ வயம்\n
-த்வ஦ீயாய கார்யாய ஬஧்஦ா கடீயஂ\n
-ஶு஭ாமாஶிஷஂ ஦ேஹி தத்பூர்தயே\n
-அஜய்யாஂ ச விஶ்வஸ்ய ஦ேஹீஶ ஶக்திஂ\n
-ஸுஶீலஂ ஜ஗஦்யேந நம்ரஂ ஭வேத்\n
-ஶ்ருதஂ சைவ யத்கண்டகாகீர்ண மார்஗ஂ\n
-ஸ்வயஂ ஸ்வீக௃தஂ நஃ ஸு஗ஂ காரயேத்\n\n
-
-ஸமுத்கர்ஷநிஃஶ்ரேயஸ்யைகமு஗்ரஂ\n
-பரஂ ஸா஧நஂ நாம வீரவ்ரதம்\n
-த஦ந்தஃ ஸ்஫ுரத்வக்ஷயா ஧்யேயநிஷ்஠ா\n
-ஹ௃஦ந்தஃ ப்ரஜா஗ர்து தீவ்ராநிஶம்\n‌
-விஜேத்ரீ ச நஃ ஸஂஹதா கார்யஶக்திர்\n
-வி஧ாயாஸ்ய ஧ர்மஸ்ய ஸஂரக்ஷணம்\n‌
-பரஂ வை஭வஂ நேதுமேதத்‌ ஸ்வராஷ்ட்ரஂ\n
-ஸமர்஥ா ஭வத்வாஶிஶா தே ஭௃ஶம் ஭\n\n
-
-ாரத மாதா கீ ஜய
-</string>
+।। Bharat Mata Ki Jai ।।\n\n</string>
 <string name="meaning">Meaning</string>
 <string name="meaningText">
     
-    Telugu \n\n
+    Telugu meaning: \n\n
     
-    వాత్సల్య పూర్ణా! ఓ మాతృభూమీ! నేను నీకు ఎల్లప్పుడూ నమస్కరింతును. ఓ హిందుభూమీ, నీ వల్లనే నేను సుఖముగా వర్దిల్లినాను. మహా మంగళమయీ! ఓ పుణ్యభూమీ! నీ కార్య సాధనకై నా ఈ శరీరము సమర్పింపబడుగాక! నీకివే అనేక నమస్కారములు.
-
-సర్వశక్తిమన్! ఓ పరమేశ్వరా! హిందూ రాష్ట్రమునకు అవయవ స్వరూపులమైన మేము నీకు సాదరముగ నమస్కరించుచున్నాము. నీ కార్యము కొరకే కటి బద్ధులమైయున్నాము. దానిని నెరవేర్చుటకై మాకు శుభాశీస్సుల నిమ్ము. విశ్వము గెలువలేని శక్తిని, ప్రపంచము మోకరిల్లునట్టి సౌశీల్యమును, మేము బుద్ధి పూర్వకముగా స్వీకరించిన మా కణ్టకాకీర్ణ మార్గమును సుగమము చేయునట్టి జ్ఞానమును ప్రసాదింపుము.
-
-అభ్యుదయ సహిత నిశ్రేయమును పొందుటకై ఒకే ఒక ఉత్తమము, తీక్షణమునైన సాధనము వీర వ్రతము. అది మా అంతః కరణములయందు స్ఫురించుగాక! అక్షయము, తీవ్రమునైన ధ్యేయనిష్ఠ మా హృదయములలో ఎల్లప్పుడూ జాగృతమై యుండుగాక! విజయశీలియైన మా సంఘటిత కార్యశక్తి  మా ధర్మమును సంరక్షించి, మా ఈ దేశమును పరమ వైభవ స్థితికి చేర్చుటలో నీ ఆశీస్సులచే మిక్కిలి సమర్థమగు గాక!
+    ఓ మా మాతృభూమీ, పుణ్యభూమీ! నీకు నమస్కరిస్తున్నాము.\n నీవే మమ్మల్ని పెంచావు, సంస్కరించావు; మేము నీ సంతానము.\n ఓ వాత్సల్యమయి, మంగళమయి హిందుభూమీ,\n మా జీవితాలను స్వయంగా నీకు అర్పిస్తున్నాము. ||౧||\n\n ఓ విశ్వశక్తీ! నీకు నమస్కారం, నమస్కారం.\n నీవే ఈ మహత్తర హిందూరాష్ట్రాన్ని నిర్మించావు.\n నీ అనుగ్రహంతోనే మేమందరం సమకూడి,\n ఈ దివ్య మార్గంలో పయనించేందుకు సిద్ధమవుతున్నాము. ||౨||\n\n ఏ ఆదర్శాల ద్వారా ఈ రాష్ట్రం ఉన్నత స్థితికి చేరిందో,\n ఎవరి ముందు సమస్త ప్రపంచం తలవంచిందో,\n ఆ ఆదర్శపూర్ణమైన, పవిత్రమైన, పాతివ్రత్యమయమైన జీవనాన్ని\n ఓ తల్లీ! నీ ప్రియమైన కుమార్తెలకు ప్రసాదించు. ||౩||\n\n మాలో దివ్యమైన శక్తిని ప్రసాదించు,\n దురాచారాలను, దుర్వృత్తులను నిర్మూలించే శక్తిని ఇవ్వు.\n తండ్రి, కుమారుడు, సోదరుడు మరియు భర్తలను\n సన్మార్గం వైపు ప్రేరేపించే శక్తిని ప్రసాదించు. ||౪||\n\n మేము శీలవంతులుగా, ధీరులుగా, సమర్థులుగా, ఐక్యంగా ఉండి,\n మన ధర్మంలో, మన మార్గంలో పరిపూర్ణమైన విశ్వాసంతో,\n భావి తేజోవంతమైన రాష్ట్రానికి ధన్యులైన\n జననులముగా ఉండేలా మాకు ఆశీర్వాదం ప్రసాదించు. ||౫||\n\n ।। భారత మాతా కీ జై ।।
     
     \n\n\n
 
-	Hindi\n\n
+	Kannada meaning: \n\n
 	
-	हे परम वत्सला मातृभूमि! तुझको प्रणाम शत कोटि बार।\n
-हे महा मंगला पुण्यभूमि ! तुझ पर न्योछावर तन हजार।।\n
-हे हिन्दुभूमि भारत! तूने, सब सुख दे मुझको बड़ा किया;\n
-तेरा ऋण इतना है कि चुका, सकता न जन्म ले एक बार।\n
-हे सर्व शक्तिमय परमेश्वर! हम हिंदुराष्ट्र के सभी घटक,\n
-तुझको सादर श्रद्धा समेत, कर रहे कोटिशः नमस्कार।।\n
-तेरा ही है यह कार्य हम सभी, जिस निमित्त कटिबद्ध हुए;\n
-वह पूर्ण हो सके ऐसा दे, हम सबको शुभ आशीर्वाद।\n
-सम्पूर्ण विश्व के लिये जिसे, जीतना न सम्भव हो पाये;\n
-ऐसी अजेय दे शक्ति कि जिससे, हम समर्थ हों सब प्रकार।।\n
-दे ऐसा उत्तम शील कि जिसके, सम्मुख हो यह जग विनम्र;\n
-दे ज्ञान जो कि कर सके सुगम, स्वीकृत कन्टक पथ दुर्निवार।\n
-कल्याण और अभ्युदय का, एक ही उग्र साधन है जो;\n
-वह मेरे इस अन्तर में हो, स्फुरित वीरव्रत एक बार।।\n
-जो कभी न होवे क्षीण निरन्तर, और तीव्रतर हो ऐसी;\n
-सम्पूर्ण ह्र्दय में जगे ध्येय, निष्ठा स्वराष्ट्र से बढे प्यार।\n
-निज राष्ट्र-धर्म रक्षार्थ निरन्तर, बढ़े संगठित कार्य-शक्ति;\n
-यह राष्ट्र परम वैभव पाये, ऐसा उपजे मन में विचार।।\n\n
+	ಓ ನಮ್ಮ ಮಾತೃಭೂಮಿಯೇ, ಪುಣ್ಯಭೂಮಿಯೇ! ನಿನಗೆ ನಮಸ್ಕರಿಸುತ್ತೇವೆ.\n ನೀನು ನಮ್ಮನ್ನು ಬೆಳೆಸಿ, ಸಂಸ್ಕರಿಸಿದ್ದೀಯೆ; ನಾವು ನಿನ್ನ ಮಕ್ಕಳು.\n ಓ ವಾತ್ಸಲ್ಯಮಯಿ, ಮಂಗಳಮಯಿ ಹಿಂದೂಭೂಮಿಯೇ,\n ನಮ್ಮ ಜೀವನಗಳನ್ನು ಸ್ವಯಂ ನಿನಗೆ ಅರ್ಪಿಸುತ್ತೇವೆ. ||೧||\n\n ಓ ವಿಶ್ವಶಕ್ತಿಯೇ! ನಿನಗೆ ನಮಸ್ಕಾರ, ನಮಸ್ಕಾರ.\n ನೀನೇ ಈ ಮಹಾನ್ ಹಿಂದೂರಾಷ್ಟ್ರವನ್ನು ನಿರ್ಮಿಸಿದ್ದೀಯೆ.\n ನಿನ್ನ ಅನುಗ್ರಹದಿಂದಲೇ ನಾವೆಲ್ಲರೂ ಒಂದಾಗಿ,\n ಈ ದಿವ್ಯ ಮಾರ್ಗದಲ್ಲಿ ಸಾಗಲು ಸಿದ್ಧರಾಗಿದ್ದೇವೆ. ||೨||\n\n ಯಾವ ಆದರ್ಶಗಳಿಂದ ಈ ರಾಷ್ಟ್ರವು ಉನ್ನತಿಗೇರಿತೋ,\n ಯಾರ ಮುಂದೆ ಸಮಸ್ತ ಜಗತ್ತು ತಲೆಬಾಗಿತೋ,\n ಆ ಆದರ್ಶಪೂರ್ಣ, ಪವಿತ್ರ ಮತ್ತು ಪಾತಿವ್ರತ್ಯಮಯ ಜೀವನವನ್ನು\n ಓ ತಾಯೇ! ನಿನ್ನ ಪ್ರಿಯ ಪುತ್ರಿಯರಿಗೆ ನೀಡು. ||೩||\n\n ನಮ್ಮಲ್ಲಿ ದಿವ್ಯವಾದ ಶಕ್ತಿಯನ್ನು ಉಂಟುಮಾಡು,\n ದುರಾಚಾರ ಮತ್ತು ದುರ್ವೃತ್ತಿಗಳನ್ನು ನಾಶಮಾಡುವ ಶಕ್ತಿಯನ್ನು ನೀಡು.\n ತಂದೆ, ಪುತ್ರ, ಸಹೋದರ ಮತ್ತು ಪತಿಯನ್ನು\n ಸನ್ಮಾರ್ಗದ ಕಡೆಗೆ ಪ್ರೇರೇಪಿಸುವ ಶಕ್ತಿಯನ್ನು ನೀಡು. ||೪||\n\n ನಾವು ಸುಶೀಲರು, ಧೀರರು, ಸಮರ್ಥರು ಮತ್ತು ಒಗ್ಗಟ್ಟಿನಿಂದ,\n ನಮ್ಮ ಧರ್ಮದಲ್ಲಿ, ನಮ್ಮ ಮಾರ್ಗದಲ್ಲಿ ಪರಮ ಶ್ರದ್ಧೆಯಿಂದ,\n ಭವಿಷ್ಯದ ತೇಜಸ್ವಿ ರಾಷ್ಟ್ರದ ಧನ್ಯ\n ಜನನಿಯರಾಗುವಂತೆ ನಮಗೆ ಆಶೀರ್ವಾದವನ್ನು ನೀಡು. ||೫||\n\n ।। ಭಾರತ ಮಾತಾ ಕೀ ಜೈ ।।
 
 \n\n\n
 
-    English \n\n
+    English meaning: \n\n
     
-    Forever I bow to thee, O Loving Motherland! O Motherland of us Hindus, Thou hast brought me up in happiness. May my life, O great and blessed Holy Land, be laid down in Thy Cause. I bow to Thee again and again.
-We the children of the Hindu Nation bow to Thee in reverence, O Almighty God. We have girded up our loins to carry on Thy work. Give us Thy holy blessings for its fulfillment. O Lord! Grant us such might as no power on earth can ever challenge, such purity of character as would command the respect of the whole world and such knowledge as would make easy the thorny path that we have voluntarily chosen.
-May we be inspired with the spirit of stern heroism, that is sole and ultimate means of attaining the highest spiritual bliss with the greatest temporal prosperity. May intense and everlasting devotion to our ideal ever enthuse our hearts. May our victorious organised power of action, by Thy Grace, be wholly capable of protecting our dharma and leading this nation of ours to the highest pinnacle of glory.
+    We bow to you, our Motherland, our sacred land.\n
+You have nurtured us and given us our values; we are your children.\n
+O loving and auspicious land of Hindus,\n
+We willingly dedicate our lives to you. ||1||\n\n
+
+Salutations again and again to you, O Universal Divine Power!\n
+You have created this great Hindu nation.\n
+By your grace, we have gathered together\n
+And are prepared to follow the divine path. ||2||\n\n
+
+May you grant our beloved daughters\n
+The noble ideals, purity and virtuous character\n
+Through which this nation has risen to greatness,\n
+And before which the whole world bows with respect. ||3||\n\n
+
+Grant us divine strength\n
+That destroys immoral conduct and evil tendencies,\n
+And inspires fathers, sons, brothers and husbands\n
+To follow the righteous path. ||4||\n\n
+
+May we become virtuous, courageous, capable and united,\n
+With complete faith in our Dharma and our chosen path.\n
+Bless us so that we may become\n
+Worthy mothers of a glorious and radiant future nation. ||5||\n\n\n
+
+Victory to Mother India!\n\n\n
     
 </string>
 

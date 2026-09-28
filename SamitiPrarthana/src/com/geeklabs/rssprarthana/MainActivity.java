@@ -168,8 +168,8 @@ public class MainActivity extends AppCompatActivity {
 				.build();
 		mp.setAudioAttributes(audioAttributes);
 
-		prairText = (TextView) findViewById(R.id.prairText);
-		seekBar = (SeekBar) findViewById(R.id.seekBar1);
+		prairText = findViewById(R.id.prairText);
+		seekBar = findViewById(R.id.seekBar1);
 		try {
 			descriptor = getAssets().openFd("Prarthana.mp3");
 			mp.setDataSource(descriptor.getFileDescriptor(), descriptor.getStartOffset(), descriptor.getLength());
@@ -191,23 +191,46 @@ public class MainActivity extends AppCompatActivity {
 
 	@Override
 	public boolean onOptionsItemSelected(MenuItem item) {
+		if (item.getItemId() == R.id.hindi) {
+			prairText.setText(R.string.hindiPrair);
+			setTitle("RSS Prarthana (Hindi)");
+			return true;
+		}
+		if (item.getItemId() == R.id.telugu) {
+			prairText.setText(R.string.teluguPrair);
+			setTitle("RSS Prarthana (Telugu)");
+			return true;
+		}
+		if (item.getItemId() == R.id.english) {
+			prairText.setText(R.string.englishPrair);
+			setTitle("RSS Prarthana (English)");
+			return true;
+		}
+		if (item.getItemId() == R.id.meaning) {
+			prairText.setText(R.string.meaningText);
+			setTitle("RSS Prarthana (Meaning)");
+			return true;
+		}
 		if (item.getItemId() == R.id.bg1) {
-			RelativeLayout rLayout = (RelativeLayout) findViewById(R.id.mainActivity);
+			RelativeLayout rLayout = findViewById(R.id.mainActivity);
 			Drawable drawable = ContextCompat.getDrawable(getApplicationContext(), R.drawable.dwajam);
 			rLayout.setBackground(drawable);
 			prairText.setTextColor(Color.parseColor("#FFFFFF"));
+			return true;
 		}
 		if (item.getItemId() == R.id.bg2) {
-			RelativeLayout rLayout = (RelativeLayout) findViewById(R.id.mainActivity);
+			RelativeLayout rLayout = findViewById(R.id.mainActivity);
 			Drawable drawable = ContextCompat.getDrawable(getApplicationContext(), R.drawable.om);
 			rLayout.setBackground(drawable);
 			prairText.setTextColor(Color.parseColor("#FFFFFF"));
+			return true;
 		}
 		if (item.getItemId() == R.id.bg3) {
-			RelativeLayout rLayout = (RelativeLayout) findViewById(R.id.mainActivity);
+			RelativeLayout rLayout = findViewById(R.id.mainActivity);
 			Drawable drawable = ContextCompat.getDrawable(getApplicationContext(), R.drawable.bharathmata);
 			rLayout.setBackground(drawable);
 			prairText.setTextColor(Color.parseColor("#19070B"));
+			return true;
 		}
 		return super.onOptionsItemSelected(item);
 	}
