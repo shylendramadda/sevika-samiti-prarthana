@@ -58,8 +58,9 @@ public class MainActivity extends AppCompatActivity {
 		// Init mobile ads
 		MobileAds.initialize(this, initializationStatus -> loadBanner());
 
-		// Keep screen active
-		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
+		// Keep screen active and show status bar
+		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON | WindowManager.LayoutParams.FLAG_DRAWS_SYSTEM_BAR_BACKGROUNDS);
+		getWindow().clearFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN);
 		findViewById(R.id.play_button).setVisibility(View.INVISIBLE);
 		findViewById(R.id.pauseButton).setVisibility(View.VISIBLE);
 
@@ -230,6 +231,13 @@ public class MainActivity extends AppCompatActivity {
 			Drawable drawable = ContextCompat.getDrawable(getApplicationContext(), R.drawable.bharathmata);
 			rLayout.setBackground(drawable);
 			prairText.setTextColor(Color.parseColor("#19070B"));
+			return true;
+		}
+		if (item.getItemId() == R.id.bg4) {
+			RelativeLayout rLayout = findViewById(R.id.mainActivity);
+			rLayout.setBackground(null);
+			rLayout.setBackgroundColor(Color.parseColor("#000000"));
+			prairText.setTextColor(Color.parseColor("#FFFFFF"));
 			return true;
 		}
 		return super.onOptionsItemSelected(item);
